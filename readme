@@ -1,0 +1,7 @@
+`NODE REST API - Fastify`
+
+** How to use? **
+- Check .env.example to add env variables
+- Make sure to have installed the lastest Node version on your system
+- npm install
+- npm run dev
